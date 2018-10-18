@@ -1,0 +1,3 @@
+fashion 2 daphni [ Salut, c'est la fashion week cette semaine vous avez vu ? ] dedel [ Génial je veux y aller !! ]
+food 3 daphni [ J'adore le bbtea ! ] dedel [ C'est quoi ta recette ] daphni [ Tapioca thé lait euh ... ]
+travel 1 dedel [ Vous partez à Noël ? ]
